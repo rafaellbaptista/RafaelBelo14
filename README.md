@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Baptista</h1>
-<h3 align="center">Student at DEI, Coimbra🌟.</h3>
+<h3 align="center">Student at DEI, Coimbra.</h3>
 
 <br>
 
@@ -12,11 +12,11 @@
 <p><img align="right" src="https://github.com/RafaelBelo14/RafaelBelo14/blob/main/coding.png" width="400" height="480" /></p>
 
 
-- 🌱 I’m currently learning Web Development, IOS developing and other programming languages
+- 👨🏻‍💻 I’m currently learning Web Development, IOS developing and other programming languages
 
-- 📫 How to reach me **rafael14belo@gmail.com**
+- 📥 How to reach me -> **rafael14belo@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 😎 Food and Music are the reasons to live.
 
 <br>
 
@@ -72,7 +72,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelBelo14&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="RafaelBelo14" 

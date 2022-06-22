@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/RafaelBelo14/RafaelBelo14/blob/main/coding.png" width="400" height="400" /></p>
+<p><img align="right" src="https://github.com/RafaelBelo14/RafaelBelo14/blob/main/coding.png" width="400" height="auto" /></p>
 
 
 - 👨🏻‍💻 I’m currently learning Web Development, Android and IOS developing

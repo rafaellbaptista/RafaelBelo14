@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/RafaelBelo14/RafaelBelo14/blob/main/coding.png" width="400" height="400" /></p>
 
 
-- 👨🏻‍💻 I’m currently learning Web Development, IOS developing and other programming languages
+- 👨🏻‍💻 I’m currently learning Web Development, Android and IOS developing
 
 - 📥 How to reach me -> **rafael14belo@gmail.com**
 

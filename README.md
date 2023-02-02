@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafa!</h1>
-<h3 align="center">Student at DEI, Coimbra.</h3>
+<h3 align="center">Intern at Pink Room, Coimbra.</h3>
 
 <br>
 
@@ -8,8 +8,6 @@
   </p>
 
 <br>
-
-<p><img align="right" src="https://github.com/RafaelBelo14/RafaelBelo14/blob/main/coding.png" width="400" height="auto" /></p>
 
 
 - 👨🏻‍💻 I’m currently learning Web Development, Android and IOS developing

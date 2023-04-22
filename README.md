@@ -89,4 +89,6 @@
 
 <img align="center" src="dist/github-snake-dark.svg"/> 
 
-<p> Inspired on Adam-pw design </p>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>

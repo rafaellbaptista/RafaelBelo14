@@ -9,7 +9,6 @@
 
 <br>
 
-
 - 👨🏻‍💻 I’m currently learning Web Development, Android and IOS developing
 
 - 📥 How to reach me -> **rafael14belo@gmail.com**

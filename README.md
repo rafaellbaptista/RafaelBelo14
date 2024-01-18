@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafa!</h1>
-<h3 align="center">Intern at Pink Room, Coimbra.</h3>
+<h3 align="center">Software developer at Pink Room, Coimbra.</h3>
 
 <br>
 
@@ -9,11 +9,9 @@
 
 <br>
 
-- 👨🏻‍💻 I’m currently learning Web Development, Android and IOS developing
+- 👨🏻‍💻 Developing Android and React Native apps
 
 - 📥 How to reach me -> **rafael14belo@gmail.com**
-
-- 😎 Food and Music are the reasons to live.
 
 <br>
 
